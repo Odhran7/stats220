@@ -67,7 +67,7 @@ table, figure, img {
 ## Project requirements
 In terms of the project requirements, I feel I have met them all. I shall go through them part by part:
   - Part A **Setting up a GitHub account and repo**:
-    - I created the repository and commited a read me file in markdown covering all the syntax's required in markdown and you can view this [here](https://github.com/Odhran7/stats220). The repo is also public so you should be able to view!!
+    - I created the repository and commited a read me file in markdown covering all the syntax's required in markdown and you can view this [here](https://github.com/Odhran7/stats220). The repo is also public so you should be able to view!! You can also take a look at the webpage hosted @ GitHub Pages [here](https://odhran7.github.io/stats220/)!
   - Part B **Meme Creation**:
     - I created the necessary file structure ![Folder Structure Image](assets/folder.png) and project in Rstudio. I scoured the web looking for inspo which I found [here](https://media.wired.com/photos/59a459d3b345f64511c5e3d4/master/pass/MemeLoveTriangle_297886754.jpg). I then used my witty humour and R programming skills to annotate this and turn it into an actual meme. I programmed in a very user-friendly way so that anyone who comes to read it can easily follow the logic and edit it in any way they see please. I also ensured to use all the required R logic and magick library functions as outlined below:
   - Part C **HTML Creation**:
