@@ -174,10 +174,10 @@ print(animtion)
 # Uncomment the above if you want to re-save it!
 
 ```
-
+  
 Here is a view of my GIF!!
-
 ![Distracted Boyfriend Statistics GIF](output/my_animation.gif)
+
 ## Creativity
 My project demonstrates creativity for a number of reasons:
 1. I have adapted a well-known meme to the realm of statistics (not an easy thing to do!).
