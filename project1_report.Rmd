@@ -71,7 +71,7 @@ In terms of the project requirements, I feel I have met them all. I shall go thr
   - Part B **Meme Creation**:
     - I created the necessary file structure ![Folder Structure Image](assets/folder.png) and project in Rstudio. I scoured the web looking for inspo which I found [here](https://media.wired.com/photos/59a459d3b345f64511c5e3d4/master/pass/MemeLoveTriangle_297886754.jpg). I then used my witty humour and R programming skills to annotate this and turn it into an actual meme. I programmed in a very user-friendly way so that anyone who comes to read it can easily follow the logic and edit it in any way they see please. I also ensured to use all the required R logic and magick library functions as outlined below:
   - Part C **HTML Creation**:
-    - I feel I 
+    - I feel I did this up to the project requirements adding in the necessary steps and even including and hosting the html file on GitHub's pages service
   
 ## My meme
 
